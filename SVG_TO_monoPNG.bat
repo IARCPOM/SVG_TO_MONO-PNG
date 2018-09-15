@@ -2,7 +2,6 @@
 MODE 80,10
 TITLE SVG TO MONOCHROME PNG
 setlocal ENABLEDELAYEDEXPANSION
-set path=%path%;C:\Program Files\ImageMagick-7.0.7-Q16
 echo Drag Directory
 set /p d=
 cd /D "%d%"
